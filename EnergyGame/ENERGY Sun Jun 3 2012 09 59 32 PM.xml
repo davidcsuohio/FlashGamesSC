@@ -1,0 +1,62 @@
+<energyGame saveTime="Sun Jun 3 2012 09 59 32 PM">
+  <curLevel>VERY EASY</curLevel>
+  <curYear>2050</curYear>
+  <curSector>VEHICLE FUEL</curSector>
+  <budgetSel>true</budgetSel>
+  <oilSel>true</oilSel>
+  <ghgSel>true</ghgSel>
+  <elecSel>true</elecSel>
+  <energySel>true</energySel>
+  <heatSel>true</heatSel>
+  <fuelSel>true</fuelSel>
+  <years>
+    <year value="2020">
+      <sectors>
+        <sector value="ELECTRICITY">
+          <COAL>19</COAL>
+          <NATURAL_GAS>14</NATURAL_GAS>
+          <NUCLEAR_('70s)>6</NUCLEAR_('70s)>
+          <HYDRO>3</HYDRO>
+          <WIND>4</WIND>
+          <NEW_NUCLEAR>4</NEW_NUCLEAR>
+          <CLEAN_COAL>2</CLEAN_COAL>
+          <SOLAR>2</SOLAR>
+          <BIOFUELS>1</BIOFUELS>
+          <GEOTHERMAL>2</GEOTHERMAL>
+        </sector>
+        <sector value="VEHICLE FUEL">
+          <OIL>20</OIL>
+          <CROP_BIOFUELS>1</CROP_BIOFUELS>
+          <NATURAL_GAS>4</NATURAL_GAS>
+        </sector>
+        <sector value="HEAT">
+          <NATURAL_GAS>29</NATURAL_GAS>
+          <COAL>2</COAL>
+          <BIOFUELS>1</BIOFUELS>
+          <GEOTHERMAL>2</GEOTHERMAL>
+        </sector>
+      </sectors>
+    </year>
+    <year value="2050">
+      <sectors>
+        <sector value="ELECTRICITY">
+          <COAL>13</COAL>
+          <NATURAL_GAS>15</NATURAL_GAS>
+          <HYDRO>3</HYDRO>
+          <WIND>20</WIND>
+          <NEW_NUCLEAR>24</NEW_NUCLEAR>
+        </sector>
+        <sector value="VEHICLE FUEL">
+          <CROP_BIOFUELS>1</CROP_BIOFUELS>
+          <CELLULOSIC_BIOFUELS>7</CELLULOSIC_BIOFUELS>
+          <NATURAL_GAS>9</NATURAL_GAS>
+          <ELECTRICITY>13</ELECTRICITY>
+        </sector>
+        <sector value="HEAT">
+          <SOLAR>12</SOLAR>
+          <GEOTHERMAL>14</GEOTHERMAL>
+        </sector>
+      </sectors>
+    </year>
+  </years>
+</energyGame>

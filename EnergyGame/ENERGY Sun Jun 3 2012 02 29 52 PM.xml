@@ -1,0 +1,96 @@
+<energyGame saveTime="Sun Jun 3 2012 02 29 52 PM">
+  <curLevel>VERY HARD</curLevel>
+  <curYear>2050</curYear>
+  <curSector>HEAT</curSector>
+  <budgetSel>true</budgetSel>
+  <oilSel>true</oilSel>
+  <ghgSel>true</ghgSel>
+  <elecSel>true</elecSel>
+  <energySel>true</energySel>
+  <heatSel>true</heatSel>
+  <fuelSel>true</fuelSel>
+  <years>
+    <year value="2020">
+      <sectors>
+        <sector value="ELECTRICITY">
+          <COAL>19</COAL>
+          <NATURAL_GAS>14</NATURAL_GAS>
+          <NUCLEAR_('70s)>6</NUCLEAR_('70s)>
+          <HYDRO>3</HYDRO>
+          <WIND>4</WIND>
+          <OIL>1</OIL>
+          <NEW_NUCLEAR>4</NEW_NUCLEAR>
+          <CLEAN_COAL>2</CLEAN_COAL>
+          <SOLAR>2</SOLAR>
+          <BIOFUELS>1</BIOFUELS>
+          <GEOTHERMAL>2</GEOTHERMAL>
+        </sector>
+        <sector value="VEHICLE FUEL">
+          <OIL>16</OIL>
+          <CROP_BIOFUELS>1</CROP_BIOFUELS>
+          <NATURAL_GAS>4</NATURAL_GAS>
+          <ELECTRICITY>4</ELECTRICITY>
+        </sector>
+        <sector value="HEAT">
+          <NATURAL_GAS>25</NATURAL_GAS>
+        </sector>
+      </sectors>
+    </year>
+    <year value="2040">
+      <sectors>
+        <sector value="ELECTRICITY">
+          <NATURAL_GAS>14</NATURAL_GAS>
+          <NUCLEAR_('70s)>2</NUCLEAR_('70s)>
+          <HYDRO>3</HYDRO>
+          <WIND>12</WIND>
+          <NEW_NUCLEAR>20</NEW_NUCLEAR>
+          <CLEAN_COAL>4</CLEAN_COAL>
+          <SOLAR>16</SOLAR>
+          <GEOTHERMAL>2</GEOTHERMAL>
+        </sector>
+        <sector value="VEHICLE FUEL">
+          <NATURAL_GAS>7</NATURAL_GAS>
+          <ELECTRICITY>18</ELECTRICITY>
+        </sector>
+        <sector value="HEAT">
+          <NATURAL_GAS>21</NATURAL_GAS>
+          <COAL>2</COAL>
+          <BIOFUELS>1</BIOFUELS>
+          <SOLAR>6</SOLAR>
+          <GEOTHERMAL>10</GEOTHERMAL>
+        </sector>
+        <sector value="EFFICIENCY INVESTMENT">
+          <EFFICIENCY>12</EFFICIENCY>
+        </sector>
+      </sectors>
+    </year>
+    <year value="2050">
+      <sectors>
+        <sector value="ELECTRICITY">
+          <HYDRO>3</HYDRO>
+          <WIND>20</WIND>
+          <NEW_NUCLEAR>27</NEW_NUCLEAR>
+          <SOLAR>24</SOLAR>
+          <FUSION>4</FUSION>
+          <BIOFUELS>1</BIOFUELS>
+          <GEOTHERMAL>4</GEOTHERMAL>
+        </sector>
+        <sector value="VEHICLE FUEL">
+          <OIL>1</OIL>
+          <CROP_BIOFUELS>1</CROP_BIOFUELS>
+          <CELLULOSIC_BIOFUELS>7</CELLULOSIC_BIOFUELS>
+          <ELECTRICITY>18</ELECTRICITY>
+        </sector>
+        <sector value="HEAT">
+          <COAL>2</COAL>
+          <BIOFUELS>1</BIOFUELS>
+          <SOLAR>12</SOLAR>
+          <GEOTHERMAL>13</GEOTHERMAL>
+        </sector>
+        <sector value="EFFICIENCY INVESTMENT">
+          <EFFICIENCY>20</EFFICIENCY>
+        </sector>
+      </sectors>
+    </year>
+  </years>
+</energyGame>
